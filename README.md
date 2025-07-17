@@ -1,7 +1,7 @@
 # call-volume-analysis-abc
 Analyzed daily call volume patterns for ABC Corp to uncover peak hours, agent load distribution, and trends for staffing optimization using Excel, SQL, and Python.
 
-# ☎️ Call Volume Analysis – ABC Corp
+# ☎️ Call Volume Analysis – People Analytics
 
 This project analyzes call center volume data from ABC Corp to identify peak call times, agent load trends, and staffing optimization opportunities. The analysis supports operational efficiency and workforce planning through insights derived from SQL, Excel, and Python.
 
