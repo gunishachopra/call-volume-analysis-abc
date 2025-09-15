@@ -40,11 +40,6 @@ This project analyzes call center volume data from ABC Corp to identify peak cal
 - Records: Daily logs across several weeks
 
 ---
-
-## ☎️ project insights and presentation:
-VIDEO EXPLANATION: https://drive.google.com/file/d/1AV9BoSQ3WeJ0qDiXniFVzMI_bvvt0QVn/view?usp=drive_link
-
-POWER POINT: https://drive.google.com/file/d/1sBUjIxAFkKVTOdQnD_-TMSmgfq2MqadX/view?usp=drive_link
 ---
 
 ## 🚀 Next Steps
